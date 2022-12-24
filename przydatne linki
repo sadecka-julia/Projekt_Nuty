@@ -1,0 +1,23 @@
+
+
+-----dokumentacja pyaudio z przykładami-----
+https://people.csail.mit.edu/hubert/pyaudio/
+
+-----teoria spektogramu-------
+https://sound.eti.pg.gda.pl/student/akmuz/02-Analiza.pdf
+
+-----stack z konwertacją z .wav do spektogramu-----
+https://stackoverflow.com/questions/44787437/how-to-convert-a-wav-file-to-a-spectrogram-in-python3
+https://stackoverflow.com/questions/43284049/spectrogram-of-a-wave-file
+
+------pcolormesh------
+https://www.geeksforgeeks.org/matplotlib-pyplot-pcolormesh-in-python/
+
+------SUPER TEORIA-------
+https://klyshko.github.io/teaching/2019-02-22-teaching
+
+------częstotliwości dźwięków-------
+https://pages.mtu.edu/~suits/notefreqs.html
+
+
+
